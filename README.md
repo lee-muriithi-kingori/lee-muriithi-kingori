@@ -1,68 +1,108 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/176239281?v=4" width="120" style="border-radius: 50%;" />
-  <h1>Lee Muriithi</h1>
-  <p><strong>Founder & Owner of <a href="https://lestramk.org">Lestramk</a></strong></p>
-  <p>Building <a href="https://lestramk.org">AAMT</a> — Africa's vetted talent marketplace. Engineers, designers, writers, finance experts — human-reviewed, on demand.</p>
-  <p>
-    <a href="https://lestramk.org">🌐 lestramk.org</a> ·
-    <a href="https://www.linkedin.com/in/lee-muriithi-6a22ab318">💼 LinkedIn</a> ·
-    <a href="https://www.instagram.com/leetesticals">📸 Instagram</a>
-  </p>
-</div>
+# Lee Muriithi Kingori
+
+> Founder & Owner of Lestramk (AAMT) — Africa's vetted talent marketplace.
+
+[![GitHub Followers](https://img.shields.io/github/followers/lee-muriithi-kingori?style=social)](https://github.com/lee-muriithi-kingori)
+[![Location](https://img.shields.io/badge/Location-Kenya-blue.svg)]()
+[![Company](https://img.shields.io/badge/Company-Lestramk-green.svg)]()
 
 ---
 
-## What I'm Building
+## About Me
 
-### [AAMT](https://lestramk.org) — Africa's Talent, Vetted
-A talent marketplace connecting African professionals with global opportunities.
+I'm **Lee Muriithi Kingori**, a developer and entrepreneur from Kenya 🇰🇪. I'm passionate about building technology that solves real problems — from Android system utilities for the modding community to fintech platforms connecting talent across Africa.
 
-- **2,400+** vetted talents across 15 specializations
-- **380+** companies hiring from 14 countries
-- **KES 48M+** paid to talents
-- Human-reviewed profiles, 48-hour vetting
-- M-Pesa & USD weekly payments
-- Built in Nairobi, live across Africa
+### What I Do
+
+- **Founder @ Lestramk** — Building Africa's vetted talent marketplace (AAMT)
+- **Android Developer** — Creating root utilities and system tools
+- **Full-Stack Developer** — Web applications and backend systems
+- **Open Source Contributor** — Sharing tools with the community
+
+---
+
+## My Projects
+
+### Featured
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**AAMT**](https://aamt.vercel.app) | Africa's vetted talent marketplace | ⭐ |
+| [**LESTRAMK-TOOLKIT**](https://github.com/lee-muriithi-kingori/LESTRAMK-TOOLKIT) | Android root diagnostic toolkit (C) | ⭐ |
+| [**AnonRoute-LESTRAMK**](https://github.com/lee-muriithi-kingori/AnonRoute-LESTRAMK) | SOCKS5 proxy tunnel for Android | ⭐ |
+| [**Lespoof**](https://github.com/lee-muriithi-kingori/Lespoof) | Samsung device integrity module (Kotlin) | ⭐ |
+
+### Web & Fintech
+
+| Project | Description |
+|---------|-------------|
+| [**HBSend**](https://github.com/lee-muriithi-kingori/LESTRAMK-TOOL) | Global money transfer platform |
+| [**hbs-tunnelytics.github.io**](https://hbs-tunnelytics.github.io) | Company website |
+| [**lee-muriithi-kingori.github.io**](https://lee-muriithi-kingori.github.io) | Personal portfolio |
+
+### Android Root Ecosystem
+
+| Project | Description |
+|---------|-------------|
+| **GhostPass-LESTRAMK** | Authentication & integrity utility |
+| **NetBoost-LESTRAMK** | Network optimization module |
+| **HBS-ROOT-FIXES** | Root device issue resolution |
+| **lee-muriithi-randoms** | Experimental tools collection |
+
+### Backend & Infrastructure
+
+| Project | Description |
+|---------|-------------|
+| **lee-server** | Python server with GUI |
+| **hen_server** | Full-stack server (frontend/backend) |
+| **Hen-server** | VPS hosting server |
+| **lestramk-backend** | Lestramk platform backend |
+| **lestramk-bot** | Chat assistant bot |
+
+---
 
 ## Tech Stack
 
-**AAMT Platform:**
-- Next.js 15 (App Router) · React · TypeScript
-- Tailwind CSS · shadcn/ui
-- Supabase (Auth, DB, Realtime, Edge Functions)
-- Prisma ORM · PostgreSQL
-- tRPC · Zod
-- Sentry · Vercel
-
-**Other Projects:**
-- Kotlin (Android/LSPosed modules)
-- C (systems/root tooling)
-- Shell scripting
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[AAMT](https://lestramk.org)** | Africa's vetted talent marketplace | Next.js, Supabase, Prisma |
-| **[Lespoof](https://github.com/lee-muriithi-kingori/Lespoof)** | LSPosed module for Samsung device integrity | Kotlin |
-| **[LESTRAMK-TOOLKIT](https://github.com/lee-muriithi-kingori/LESTRAMK-TOOLKIT)** | Toolkit for root users | C |
-| **[LESTRAMK-TOOL](https://github.com/lee-muriithi-kingori/LESTRAMK-TOOL)** | Root community issue detection tool | HTML, JS |
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lee-muriithi-kingori&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-muriithi-kingori&layout=compact&hide_border=true&count_private=true" height="150" />
-</div>
-
-## Currently
-
-- 🚀 Scaling AAMT across 14 African countries
-- 🔧 Shipping new features: talent chat, connectors, pro pool
-- 📍 Nairobi, Kenya
+```
+Languages:     C, Kotlin, Python, JavaScript, HTML/CSS, Bash
+Mobile:        Android (Root development, Magisk/KernelSU modules)
+Web:           HTML5, CSS3, JavaScript, Next.js
+Backend:       Python (Flask/FastAPI)
+Tools:         Git, GitHub Actions, Vercel
+```
 
 ---
 
-<div align="center">
-  <sub>Built with grit in Nairobi · <a href="https://lestramk.org">lestramk.org</a></sub>
-</div>
+## GitHub Stats
+
+![Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lee-muriithi-kingori&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-muriithi-kingori&layout=compact&theme=dark)
+
+---
+
+## Connect With Me
+
+| Platform | Handle |
+|----------|--------|
+| **GitHub** | [@lee-muriithi-kingori](https://github.com/lee-muriithi-kingori) |
+| **Website** | [lee-muriithi-kingori.github.io](https://lee-muriithi-kingori.github.io/) |
+| **Company** | [Lestramk](https://github.com/lee-muriithi-kingori) |
+
+---
+
+## My Philosophy
+
+> *"Hello world.. My name is lee muriithi kingori. Building tools that matter, one line of code at a time."*
+
+I believe in:
+- **Open Source** — Sharing knowledge with the community
+- **Quality** — Building tools that actually work
+- **Learning** — Every project is an opportunity to grow
+- **Impact** — Technology should solve real problems
+
+---
+
+<p align="center">
+  <sub>© 2025-2026 Lee Muriithi Kingori · Lestramk · Kenya 🇰🇪</sub>
+</p>
