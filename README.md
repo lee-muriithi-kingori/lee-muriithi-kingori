@@ -1,108 +1,66 @@
-# Lee Muriithi Kingori
+# 👋 Lee Muriithi Kingori
 
-> Founder & Owner of Lestramk (AAMT) — Africa's vetted talent marketplace.
+**Founder @ Lestramk** · Building infrastructure for Africa's vetted talent economy
 
-[![GitHub Followers](https://img.shields.io/github/followers/lee-muriithi-kingori?style=social)](https://github.com/lee-muriithi-kingori)
-[![Location](https://img.shields.io/badge/Location-Kenya-blue.svg)]()
-[![Company](https://img.shields.io/badge/Company-Lestramk-green.svg)]()
+> 🇰🇪 Nairobi, Kenya · Building in public · Open source
 
 ---
 
-## About Me
+## 🔥 What I'm Building
 
-I'm **Lee Muriithi Kingori**, a developer and entrepreneur from Kenya 🇰🇪. I'm passionate about building technology that solves real problems — from Android system utilities for the modding community to fintech platforms connecting talent across Africa.
-
-### What I Do
-
-- **Founder @ Lestramk** — Building Africa's vetted talent marketplace (AAMT)
-- **Android Developer** — Creating root utilities and system tools
-- **Full-Stack Developer** — Web applications and backend systems
-- **Open Source Contributor** — Sharing tools with the community
-
----
-
-## My Projects
-
-### Featured
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**AAMT**](https://aamt.vercel.app) | Africa's vetted talent marketplace | ⭐ |
-| [**LESTRAMK-TOOLKIT**](https://github.com/lee-muriithi-kingori/LESTRAMK-TOOLKIT) | Android root diagnostic toolkit (C) | ⭐ |
-| [**AnonRoute-LESTRAMK**](https://github.com/lee-muriithi-kingori/AnonRoute-LESTRAMK) | SOCKS5 proxy tunnel for Android | ⭐ |
-| [**Lespoof**](https://github.com/lee-muriithi-kingori/Lespoof) | Samsung device integrity module (Kotlin) | ⭐ |
-
-### Web & Fintech
-
-| Project | Description |
-|---------|-------------|
-| [**HBSend**](https://github.com/lee-muriithi-kingori/LESTRAMK-TOOL) | Global money transfer platform |
-| [**hbs-tunnelytics.github.io**](https://hbs-tunnelytics.github.io) | Company website |
-| [**lee-muriithi-kingori.github.io**](https://lee-muriithi-kingori.github.io) | Personal portfolio |
-
-### Android Root Ecosystem
-
-| Project | Description |
-|---------|-------------|
-| **GhostPass-LESTRAMK** | Authentication & integrity utility |
-| **NetBoost-LESTRAMK** | Network optimization module |
-| **HBS-ROOT-FIXES** | Root device issue resolution |
-| **lee-muriithi-randoms** | Experimental tools collection |
-
-### Backend & Infrastructure
-
-| Project | Description |
-|---------|-------------|
-| **lee-server** | Python server with GUI |
-| **hen_server** | Full-stack server (frontend/backend) |
-| **Hen-server** | VPS hosting server |
-| **lestramk-backend** | Lestramk platform backend |
-| **lestramk-bot** | Chat assistant bot |
-
----
-
-## Tech Stack
+### [LestraOS](https://github.com/lee-muriithi-kingori/LestraOS)
+Custom x86_64 operating system from scratch — kernel, drivers, libc, userspace, package manager, desktop. No Linux. No Unix. Just bare metal.
 
 ```
-Languages:     C, Kotlin, Python, JavaScript, HTML/CSS, Bash
-Mobile:        Android (Root development, Magisk/KernelSU modules)
-Web:           HTML5, CSS3, JavaScript, Next.js
-Backend:       Python (Flask/FastAPI)
-Tools:         Git, GitHub Actions, Vercel
+kernel/    → memory manager, scheduler, VFS, syscall layer
+drivers/   → VGA, keyboard, serial, PIT (Programmable Interval Timer)
+boot/      → custom bootloader
+user/      → userspace utilities + desktop environment
 ```
 
----
+### [AAMT](https://aamt.vercel.app) — Africa's Vetted Talent Marketplace
+Full-stack Next.js platform connecting vetted African talent with opportunities. Supabase auth, Prisma + Postgres, deployed on Vercel.
 
-## GitHub Stats
-
-![Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lee-muriithi-kingori&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-muriithi-kingori&layout=compact&theme=dark)
+### [elyan-staking-mcp](https://github.com/lee-muriithi-kingori/elyan-staking-mcp) *(PR pending)*
+LangChain tool + MCP server for RustChain's Elyan staking protocol. TypeScript, full implementation with tests.
 
 ---
 
-## Connect With Me
+## 🛠 Tech Stack
 
-| Platform | Handle |
-|----------|--------|
-| **GitHub** | [@lee-muriithi-kingori](https://github.com/lee-muriithi-kingori) |
-| **Website** | [lee-muriithi-kingori.github.io](https://lee-muriithi-kingori.github.io/) |
-| **Company** | [Lestramk](https://github.com/lee-muriithi-kingori) |
-
----
-
-## My Philosophy
-
-> *"Hello world.. My name is lee muriithi kingori. Building tools that matter, one line of code at a time."*
-
-I believe in:
-- **Open Source** — Sharing knowledge with the community
-- **Quality** — Building tools that actually work
-- **Learning** — Every project is an opportunity to grow
-- **Impact** — Technology should solve real problems
+| Domain | Stack |
+|---|---|
+| **OS Dev** | C · x86 Assembly · Make |
+| **Web** | Next.js · TypeScript · Prisma · Supabase |
+| **Mobile** | Kotlin (Android) · Magisk modules |
+| **Automation** | Node.js · Python · Bash |
+| **Infrastructure** | Vercel · GitHub Actions |
 
 ---
 
-<p align="center">
-  <sub>© 2025-2026 Lee Muriithi Kingori · Lestramk · Kenya 🇰🇪</sub>
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lee-muriithi-kingori&show_icons=true&theme=radical&count_private=true" alt="Lee's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-muriithi-kingori&layout=compact&theme=radical" alt="Top languages" height="160" />
 </p>
+
+---
+
+## 🌍 Connect
+
+<p align="left">
+  <a href="https://github.com/lee-muriithi-kingori">
+    <img src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&color=6366f1" alt="GitHub" />
+  </a>
+  <a href="https://lestramk.org">
+    <img src="https://img.shields.io/badge/Web-lestramk.org-10b981?style=flat&logo=vercel&color=10b981" alt="Website" />
+  </a>
+  <a href="https://aamt.vercel.app">
+    <img src="https://img.shields.io/badge/AAMT-aamt.vercel.app-3b82f6?style=flat&logo=vercel&color=3b82f6" alt="AAMT" />
+  </a>
+</p>
+
+---
+
+*Building tools that matter — one commit at a time.*
